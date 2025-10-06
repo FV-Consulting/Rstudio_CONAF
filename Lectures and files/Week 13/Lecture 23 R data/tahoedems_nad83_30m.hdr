@@ -1,0 +1,17 @@
+ENVI
+description = {
+  Registration Result. Method: Triangulation w/ nearest neighbor [Sun Feb 19
+  18:03:09 2006]}
+samples = 1172
+lines   = 2810
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {UTM, 1.000, 1.000, 736801.732, 4363038.995, 3.0000000000e+001, 3.0000000000e+001, 10, North, North America 1983, units=Meters}
+wavelength units = Unknown
+band names = {
+ Warp (DEM Image:tahoedems.img)}

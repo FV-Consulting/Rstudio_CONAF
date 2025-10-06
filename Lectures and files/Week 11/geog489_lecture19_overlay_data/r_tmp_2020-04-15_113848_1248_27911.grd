@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2020-04-15 11:38:49
+[georeference]
+nrows=400
+ncols=400
+xmin=-119.932807193
+ymin=39.289224657
+xmax=-119.930618048
+ymax=39.291413802
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=8187.30337956055
+maxvalue=8365.91211692383
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=tahoe_lidar_highesthit
